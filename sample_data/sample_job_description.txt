@@ -1,0 +1,25 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer with 3+ years of experience to
+join our AI team. The ideal candidate has strong Python skills and hands-on
+experience building and deploying machine learning models in production.
+
+Responsibilities:
+- Design, train, and evaluate machine learning and NLP models
+- Build data pipelines using Pandas and NumPy
+- Deploy models as scalable services using Docker and AWS
+- Collaborate with cross-functional teams using Git/GitHub
+- Communicate results through dashboards and visualizations
+
+Requirements:
+- Bachelor's degree in Computer Science, Data Science, or a related field
+- 3+ years of experience in machine learning or data science
+- Proficiency in Python, Scikit-learn, Pandas, NumPy
+- Experience with NLP techniques (TF-IDF, embeddings, transformers)
+- Experience with Docker and AWS (EC2, S3, SageMaker)
+- Familiarity with Git version control
+- Strong communication and visualization skills (Matplotlib/Seaborn)
+
+Nice to have:
+- Experience with Streamlit or similar tools for building ML demos
+- Master's degree in a quantitative field

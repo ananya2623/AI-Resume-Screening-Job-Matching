@@ -1,0 +1,41 @@
+{
+  "programming_languages": [
+    "python", "java", "c++", "c#", "javascript", "typescript", "sql", "r", "scala", "go"
+  ],
+  "data_ml_libraries": [
+    "pandas", "numpy", "scikit-learn", "tensorflow", "pytorch", "keras",
+    "xgboost", "lightgbm", "opencv"
+  ],
+  "nlp": [
+    "nlp", "tf-idf", "sentence transformers", "transformers", "bert", "spacy",
+    "nltk", "word2vec", "embeddings"
+  ],
+  "cloud_devops": [
+    "docker", "kubernetes", "aws", "azure", "gcp", "ci/cd", "jenkins",
+    "terraform", "linux"
+  ],
+  "web_frameworks": [
+    "flask", "django", "fastapi", "streamlit", "react", "node.js"
+  ],
+  "data_viz": [
+    "matplotlib", "seaborn", "tableau", "power bi", "plotly"
+  ],
+  "big_data": [
+    "spark", "hadoop", "airflow", "kafka", "mlops"
+  ],
+  "tools": [
+    "git", "github", "gitlab", "jira", "rest api"
+  ],
+  "education_keywords": {
+    "phd": 4,
+    "doctorate": 4,
+    "master": 3,
+    "m.s.": 3,
+    "msc": 3,
+    "bachelor": 2,
+    "b.s.": 2,
+    "bsc": 2,
+    "associate degree": 1,
+    "diploma": 1
+  }
+}

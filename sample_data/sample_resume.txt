@@ -1,0 +1,26 @@
+John Doe
+Data Scientist
+
+Education:
+Bachelor of Science in Computer Science, State University, 2019
+
+Experience:
+Data Scientist, TechCorp Inc. (2021 - Present)
+- Built machine learning models in Python using Scikit-learn and Pandas
+- Performed exploratory data analysis and created visualizations with
+  Matplotlib and Seaborn
+- Developed NLP pipelines using TF-IDF and cosine similarity for text
+  classification tasks
+- Used Git/GitHub for version control and collaborative development
+
+Junior Data Analyst, DataWorks LLC (2019 - 2021)
+- Cleaned and preprocessed large datasets using Pandas and NumPy
+- Built dashboards to communicate insights to stakeholders
+- Assisted in developing predictive models for customer churn
+
+Skills:
+Python, Pandas, NumPy, Scikit-learn, NLP, Matplotlib, Seaborn, Git, SQL,
+Machine Learning, Data Visualization
+
+Certifications:
+- Google Data Analytics Professional Certificate
